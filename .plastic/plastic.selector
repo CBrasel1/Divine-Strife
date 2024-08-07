@@ -1,0 +1,4 @@
+repository "Divine Strife@ArchAngelGxC@cloud"
+  path "/"
+    br "/main"
+    co "/main"
